@@ -1,9 +1,9 @@
-bec3107a9a2beb23068887cfd98be75e *DESCRIPTION
+5c3f19fd2690f6bb56ea29c0f57fe686 *DESCRIPTION
 8d84a2a0403f9142117759ed2ba1b25d *LICENSE
 105ce00cdf9dff7c6b633ec0b7a38ca6 *NAMESPACE
 9982e9d14d2d80b440b55dec05623948 *R/data.r
-2b2dfd3a8f31c612c21c9b0c109acacd *R/utility_functions.r
-ef7c4a81ac6ed4131cedcd43e8a17d7c *README.md
+77449bf9284f6323b4afe5327dc2fe82 *R/utility_functions.r
+52d2f462ce76e0ea99087ca79646c4b8 *README.md
 894bb970f632951fc238ef3345079081 *data/asasec.rda
 dc9e2c9e804dffbeb0b2bfa8842eab4d *data/bad_date.rda
 8ccd3077999b002ad620a12f39d19b93 *data/boomer.rda
@@ -12,7 +12,7 @@ aac8fc90dc7a968f8443f5981336eec3 *data/county_data.rda
 6800c5cd1718d6e1001363e98e40b449 *data/county_map.rda
 74730f1e3f44c22883c686ea95fdd099 *data/datalist
 be812b61432980d8e9c2c32287f129b6 *data/edu.rda
-8e9d4edcc06da8b511e7b65cc24c113d *data/election.rda
+da5a6fc729f6033153d7b2614bcb4ca5 *data/election.rda
 56e17c0b3cd5e573977178c15ccca5ab *data/elections_historic.rda
 6b000ff60d702e15069dc0c24be8388a *data/fredts.rda
 fd91a48363d1e12ee24b04112ba0186e *data/gss_lon.rda
@@ -31,7 +31,7 @@ c6cc75e70c87f81e6e97f35f6aafa12a *data/preg2.rda
 c65708d961729fdfc64a8b42e676bd92 *data/yahoo.rda
 24cd1ae5785673dda0efef5fbeb8d68e *inst/CITATION
 f212d9178571ce1f16209970c3b254dc *inst/assets/dv-cover-pupress.jpg
-d1588c63387af1a7d0c247d390a5776b *inst/resources/dataviz_course_notes.zip
+60d1965ec388d8adfd8e4397afb9b193 *inst/resources/dataviz_course_notes.zip
 fc6f151b9830e5936935abf15758e580 *inst/rmarkdown/templates/dataviz_notes/skeleton/skeleton.Rmd
 752537e731b1c2480933e9b2e7eaa1d4 *inst/rmarkdown/templates/dataviz_notes/template.yaml
 10d9b6e6bf889095f4113c66cee67085 *man/asasec.Rd
@@ -67,7 +67,7 @@ dd9848d0f80d61be21fed7d56f941e9c *man/prefix_replace.Rd
 be058c2c9489d598f6179e6d13ca1b9f *man/preg2.Rd
 f97576758f51d7f6ad72027dcb638565 *man/reexports.Rd
 578f9d3b58d07982594e4bb96677b070 *man/round_df.Rd
-51618390acb7fc3cf208646f72e10833 *man/setup_course_notes.Rd
+612c2674218eb7a2c83eafe5014d4f62 *man/setup_course_notes.Rd
 9a0fd98a4c979a135c5f3e8a763e76a2 *man/studebt.Rd
 12c97d1df1ee36f9eee29531475ede93 *man/titanic.Rd
 cc2d98618ae79cccbc01c6c5f0db8078 *man/tw_tab.Rd
