@@ -1,7 +1,7 @@
 Package: socviz
 Type: Package
 Title: Utility Functions and Data Sets for Data Visualization
-Version: 1.1
+Version: 1.2
 Authors@R: person("Kieran", "Healy", email = "kjhealy@gmail.com",
                       role = c("aut", "cre"))
 Maintainer: Kieran Healy <kjhealy@gmail.com>
@@ -14,9 +14,9 @@ Encoding: UTF-8
 LazyData: true
 URL: http://kjhealy.github.io/socviz/
 BugReports: https://github.com/kjhealy/socviz/issues
-RoxygenNote: 7.0.2
+RoxygenNote: 7.1.0
 NeedsCompilation: no
-Packaged: 2020-02-19 19:12:00 UTC; kjhealy
+Packaged: 2020-06-10 12:41:08 UTC; kjhealy
 Author: Kieran Healy [aut, cre]
 Repository: CRAN
-Date/Publication: 2020-02-19 19:30:02 UTC
+Date/Publication: 2020-06-10 13:10:02 UTC
